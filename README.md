@@ -13,3 +13,7 @@ The application displays categories and categories details, and also provides se
 1. Run migration
 1. Create a superuser
 1. Add some data using the admin application
+
+## Exercise
+
+Add many cities. Each store will belong to one city, but each city will have many stores.
